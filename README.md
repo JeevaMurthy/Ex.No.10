@@ -7,10 +7,8 @@
     <div>Capstone Mini Project – Robotics Engineering</div>
 </div>
 
-<div class="meta">
-   
-    <strong>Registration No.</strong><span>212223230090</span>
-</div>
+<strong>Registration No.</strong><span>212223230090</span>
+
 
 <h2>Aim</h2>
 <p>
